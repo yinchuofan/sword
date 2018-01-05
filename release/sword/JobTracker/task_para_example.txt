@@ -1,0 +1,7 @@
+{
+"deviceID":100	
+,"streamURL":"rtsp://admin:123456@192.168.0.212/profile1"	
+,"beginTime":0	
+,"endTime":0	
+,"algConfig":""
+}

@@ -1,0 +1,4 @@
+[16:33:21 CST 2017/09/20] [EROR] (sword/SwordTaskTracker/task.register:34) Register node failed, continue to register after 1 minitue
+[16:33:21 CST 2017/09/20] [EROR] (sword/SwordTaskTracker/task.RegisterNode:30) Post Register HTTP request error: Post http://127.0.0.1:6000/register: dial tcp 127.0.0.1:6000: connectex: No connection could be made because the target machine actively refused it., url: http://127.0.0.1:6000/register
+[18:26:38 CST 2017/09/25] [EROR] (sword/SwordTaskTracker/task.register:36) Register node failed, continue to register after 1 minitue
+[18:26:38 CST 2017/09/25] [EROR] (sword/SwordTaskTracker/task.RegisterNode:30) Post Register HTTP request error: Post http://127.0.0.1:6000/register: dial tcp 127.0.0.1:6000: connectex: No connection could be made because the target machine actively refused it., url: http://127.0.0.1:6000/register

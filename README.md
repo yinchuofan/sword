@@ -1,0 +1,8 @@
+#sword
+通用分布式计算框架，有SwordJobTracker和SwordTaskTracker组成，SwordJobTracker负责外部请求的处理、
+任务的分配、SwordTaskTracker节点的监控等，SwordTaskTracker负责启停和维护任务进程，每台机器可部署
+一个SwordTaskTracker。
+
+##SwordJobTracker
+
+##SwordTaskTracker

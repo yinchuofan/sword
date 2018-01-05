@@ -1,0 +1,5 @@
+[16:33:11 CST 2017/09/20] [INFO] (sword/SwordJobTracker/node.init.1:17) Load node config succeed
+[16:33:11 CST 2017/09/20] [INFO] (sword/SwordJobTracker/node.init.1:24) Load task config succeed
+[16:33:11 CST 2017/09/20] [INFO] (sword/SwordJobTracker/node.init.1:31) Init node and task succeed
+[16:33:11 CST 2017/09/20] [INFO] (sword/SwordJobTracker/node.init.1:34) Print nodes: 0
+[16:33:11 CST 2017/09/20] [INFO] (main.main:30) Listening and Serving HTTP on :6000
