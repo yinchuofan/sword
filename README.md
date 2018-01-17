@@ -1,6 +1,6 @@
 #sword
 
-通用分布式计算框架，有SwordJobTracker和SwordTaskTracker组成
+通用分布式任务调度框架，有SwordJobTracker和SwordTaskTracker组成
 
 ##SwordJobTracker
 
